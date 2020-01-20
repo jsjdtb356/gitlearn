@@ -2,3 +2,4 @@ tangbo learning git!
 change first and add!
 change second and not add!
 tb add 
+try git push
